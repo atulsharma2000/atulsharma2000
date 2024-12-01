@@ -48,6 +48,7 @@
 <h2 align="center">Hi, I'm Atul Sharma</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-selvam" /> </p>
+<img align="right" height="150" src="https://media.giphy.com/media/fmMdxlVwsCmTtA4V6a/giphy.gif?cid=790b7611qci3v43sx0mwa0egdr6dp67n4fd7alqa9y7ow4c3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Wanna+be+Data+Scientist'/>
