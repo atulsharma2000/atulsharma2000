@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! I'm Atul Sharma</h1>
 
-<h3 align="center">Passionate Data Science Engineer from India</h3>
+<h3 align="center">Aspiring Data Science Engineer from India</h3>
 
 <p align="center">
   <a href="https://twitter.com/semaphoredown" target="blank">
@@ -34,19 +34,16 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' alt='scikit_learn' width='40' height='40'/></a>
-  <a href='https://pandas.pydata.org/' target='_blank'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' alt='pandas' width='40' height='40'/></a>
-  <a href='https://seaborn.pydata.org/' target='_blank'><img src='https://seaborn.pydata.org/_images/logo-mark-lightbg.svg' alt='seaborn' width='40' height='40'/></a>
 </p>
 
 <hr>
 
 ## **About Me**
-- 🔭 I’m currently studying **ML and Big Data** at **CDAC**
-- 🌱 I’m working on **exciting projects and technologies**
-- 👯 I’m looking to collaborate on **Machine Learning projects**
-- 💻 Check my projects and repositories [HERE](https://github.com/atulsharma2000?tab=repositories)
-- ⚡ Fun fact: **The title "Attention Is All You Need" playfully references The Beatles' song "All You Need Is Love."**
+- 🎓 I’m a recent graduate currently studying **ML and Big Data** at **CDAC**.
+- 🌱 I’m eager to learn and work on **exciting data science projects**.
+- 👯 I’m looking to collaborate on **Machine Learning projects** to gain practical experience.
+- 💻 Check my projects and repositories [HERE](https://github.com/atulsharma2000?tab=repositories).
+- ⚡ Fun fact: **The title "Attention Is All You Need" references The Beatles' song "All You Need Is Love."**
 
 ## **Streak Stats**
 <p align='center'>
