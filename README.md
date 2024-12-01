@@ -39,7 +39,7 @@
 <hr>
 
 ## **About Me**
-- 🎓 I’m a recent graduate currently studying **ML and Big Data** at **CDAC**.
+- 🎓 I’m a CSE graduate currently studying **ML and Big Data** at **CDAC**.
 - 🌱 I’m eager to learn and work on **exciting data science projects**.
 - 👯 I’m looking to collaborate on **Machine Learning projects** to gain practical experience.
 - 💻 Check my projects and repositories [HERE](https://github.com/atulsharma2000?tab=repositories).
