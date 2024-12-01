@@ -26,26 +26,7 @@
 
 <h1 align="center">Hi 👋! My name is Atul Sharma</h1>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulsharma2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atulsharma2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/fmMdxlVwsCmTtA4V6a/giphy.gif?cid=790b7611qci3v43sx0mwa0egdr6dp67n4fd7alqa9y7ow4c3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-
-
-
-
-###
-
-
-
-<h2 align="center">Hi, I'm Atul Sharma</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-selvam" /> </p>
 <img align="right" height="150" src="https://media.giphy.com/media/fmMdxlVwsCmTtA4V6a/giphy.gif?cid=790b7611qci3v43sx0mwa0egdr6dp67n4fd7alqa9y7ow4c3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -66,16 +47,17 @@
 
 
 
+## **STREAK STATS**
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=atulsharma2000&theme=gotham&hide_border=true'>
+</p>
+
 ## **CODING STATS**
 <p align = 'center'>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=atulsharma2000&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atulsharma2000&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
 </p>
 
-## **STREAK STATS**
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=atulsharma2000&theme=gotham&hide_border=true'>
-</p>
 
 ## **CONNECT WITH ME**:
 <p align="left">
