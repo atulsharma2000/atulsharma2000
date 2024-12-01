@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://twitter.com/semaphoredown" target="blank"><img src="https://img.shields.io/twitter/follow/semaphoredown?logo=twitter&style=for-the-badge" alt="semaphoredown" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-selvam" /> </p>
-<img align="right" height="100" src="https://media.giphy.com/media/fmMdxlVwsCmTtA4V6a/giphy.gif?cid=790b7611qci3v43sx0mwa0egdr6dp67n4fd7alqa9y7ow4c3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
+<img align="right" height="140" src="https://media.giphy.com/media/fmMdxlVwsCmTtA4V6a/giphy.gif?cid=790b7611qci3v43sx0mwa0egdr6dp67n4fd7alqa9y7ow4c3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" />
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Wanna+be+Data+Scientist'/>
 </div>
@@ -18,8 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/semaphoredown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="semaphoredown" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul-sharma-894b03165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-sharma-894b03165" height="30" width="40" /></a>
-<a href = "https://www.linkedin.com/in/atul-sharma-894b03165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://twitter.com/semaphoreDown"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </p>
 
