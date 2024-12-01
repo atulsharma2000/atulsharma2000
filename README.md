@@ -43,7 +43,7 @@
 - 🌱 I’m eager to learn and work on **exciting data science projects**.
 - 👯 I’m looking to collaborate on **Machine Learning projects** to gain practical experience.
 - 💻 Check my projects and repositories [HERE](https://github.com/atulsharma2000?tab=repositories).
-- ⚡ Fun fact: **The title "Attention Is All You Need" references The Beatles' song "All You Need Is Love."**
+- ⚡ Transformer Fun fact: **The title "Attention Is All You Need" references The Beatles' song "All You Need Is Love."**
 
 ## **Streak Stats**
 <p align='center'>
