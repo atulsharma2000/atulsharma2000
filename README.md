@@ -48,6 +48,7 @@
 ## **Streak Stats**
 <p align='center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=atulsharma2000&theme=gotham&hide_border=true'>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=atulsharma20000&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ## **Coding Stats**
