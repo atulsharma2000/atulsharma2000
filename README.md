@@ -37,12 +37,9 @@
   
   <!-- New Additions -->
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/></a>
-  <a href="https://hive.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg" alt="Hive" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="PySpark" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" alt="Airflow" width="40" height="40"/></a>
+  
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="#llama-link"><img src="<URL_TO_LLM_LOGO>" alt='Llama' width='40' height='40'/></a> <!-- Replace with actual URL -->
+
 </p>
 
 <hr>
